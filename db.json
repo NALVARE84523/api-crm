@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nelson 2",
+      "empresa": "Empresa de Nelson 2",
+      "email": "nelson@nelson.com",
+      "telefono": "3202154144",
+      "notas": "Hola Hola",
+      "id": 2
+    },
+    {
+      "nombre": "Comida",
+      "empresa": "Empresa de Nelson",
+      "email": "nelson@nelson.com",
+      "telefono": "3202154144",
+      "notas": "aaaaa",
+      "id": 4
+    },
+    {
+      "nombre": "Ofelia Actulizada",
+      "empresa": "Empresa de ofelia",
+      "email": "example@example.com",
+      "telefono": "3202154144",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
